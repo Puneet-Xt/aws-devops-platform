@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>DevOps Platform</title>
+
+<style>
+  body {
+    margin: 0;
+    font-family: "Segoe UI", sans-serif;
+    background: #0b1220;
+    color: #e5e7eb;
+  }
+
+  header {
+    background: #111827;
+    padding: 30px;
+    text-align: center;
+    border-bottom: 1px solid #1f2937;
+  }
+
+  header h1 {
+    margin: 0;
+    font-size: 34px;
+    color: #38bdf8;
+  }
+
+  header p {
+    margin-top: 8px;
+    color: #9ca3af;
+  }
+
+  .container {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 0 20px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+  }
+
+  .card {
+    background: #111827;
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid #1f2937;
+    transition: 0.3s;
+  }
+
+  .card:hover {
+    transform: translateY(-5px);
+    border-color: #38bdf8;
+  }
+
+  .title {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #60a5fa;
+  }
+
+  .status {
+    color: #22c55e;
+    font-weight: bold;
+  }
+
+  .footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    font-size: 13px;
+    color: #6b7280;
+    border-top: 1px solid #1f2937;
+  }
+</style>
+
+</head>
+
+<body>
+
+<header>
+  <h1>DevOps CI/CD Platform</h1>
+  <p>Terraform • Docker • Kubernetes (K3s) • GitHub Actions</p>
+</header>
+
+<div class="container">
+
+  <div class="grid">
+
+    <div class="card">
+      <div class="title">Deployment Status</div>
+      <p class="status">SUCCESSFULLY DEPLOYED ✅</p>
+      <p>Application running on AWS EC2 with Kubernetes cluster</p>
+    </div>
+
+    <div class="card">
+      <div class="title">CI/CD Pipeline</div>
+      <p>GitHub → Actions → Docker → K3s → Live Deployment</p>
+    </div>
+
+    <div class="card">
+      <div class="title">Infrastructure as Code</div>
+      <p>Fully automated AWS infrastructure using Terraform</p>
+    </div>
+
+    <div class="card">
+      <div class="title">Containerization</div>
+      <p>Dockerized application pushed to Docker Hub registry</p>
+    </div>
+
+    <div class="card">
+      <div class="title">Kubernetes Cluster</div>
+      <p>Lightweight K3s cluster running on EC2 instance</p>
+    </div>
+
+    <div class="card">
+      <div class="title">Monitoring Ready</div>
+      <p>Architecture ready for Prometheus & Grafana integration</p>
+    </div>
+
+  </div>
+
+</div>
+
+<div class="footer">
+  Built as a Real-World DevOps Engineering Project 🚀
+</div>
+
+</body>
+</html>
