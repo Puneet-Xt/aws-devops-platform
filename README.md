@@ -212,7 +212,7 @@ _Add Screenshot Here_
 
 ## Docker Image Build
 
-_Add Screenshot Here_
+https://github.com/Puneet-Xt/aws-devops-platform/blob/main/screenshots/Docker%20image.png
 
 ---
 
