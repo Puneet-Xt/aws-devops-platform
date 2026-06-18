@@ -218,13 +218,13 @@ https://github.com/Puneet-Xt/aws-devops-platform/blob/main/screenshots/Docker%20
 
 ## Kubernetes Deployment
 
-_Add Screenshot Here_
+https://github.com/Puneet-Xt/aws-devops-platform/blob/main/screenshots/Kubernetes-deployment.png
 
 ---
 
 ## Application Running
 
-_Add Screenshot Here_
+
 
 ---
 
