@@ -204,7 +204,7 @@ _Add Screenshot Here_
 
 ---
 
-## Terraform Apply
+## Terraform Infrastructure State
 
 _Add Screenshot Here_
 
