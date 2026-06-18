@@ -200,13 +200,13 @@ Push to Main Branch
 
 ## AWS EC2 Instance
 
-_Add Screenshot Here_
+https://github.com/Puneet-Xt/aws-devops-platform/blob/main/screenshots/EC2-dashboard.png
 
 ---
 
 ## Terraform Infrastructure State
 
-_Add Screenshot Here_
+
 
 ---
 
