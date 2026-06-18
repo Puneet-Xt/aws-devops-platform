@@ -206,7 +206,7 @@ https://github.com/Puneet-Xt/aws-devops-platform/blob/main/screenshots/EC2-dashb
 
 ## Terraform Infrastructure State
 
-
+https://github.com/Puneet-Xt/aws-devops-platform/blob/main/screenshots/Terraform%20show%20%20%26%20Terraform%20output.png
 
 ---
 
