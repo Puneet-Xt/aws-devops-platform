@@ -230,7 +230,7 @@ _Add Screenshot Here_
 
 ## GitHub Actions Success
 
-_Add Screenshot Here_
+https://github.com/Puneet-Xt/aws-devops-platform/blob/main/screenshots/Github-actions-overview.png
 
 ---
 
