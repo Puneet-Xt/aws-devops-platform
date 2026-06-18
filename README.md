@@ -224,7 +224,7 @@ https://github.com/Puneet-Xt/aws-devops-platform/blob/main/screenshots/Kubernete
 
 ## Application Running
 
-
+https://github.com/Puneet-Xt/aws-devops-platform/blob/main/screenshots/application-running.png
 
 ---
 
