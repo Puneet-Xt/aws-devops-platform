@@ -299,7 +299,7 @@ Through this project I gained hands-on experience with:
 
 **Punnet Kumar**
 
-GitHub: :contentReference[oaicite:0]{index=0}
+GitHub: https://github.com/Puneet-Xt
 
 ---
 
