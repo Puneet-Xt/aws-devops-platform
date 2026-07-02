@@ -297,7 +297,7 @@ Through this project I gained hands-on experience with:
 
 # 👨‍💻 Author
 
-**Punnet Choudhary**
+**Punnet Kumar**
 
 GitHub: :contentReference[oaicite:0]{index=0}
 
